@@ -1,0 +1,1245 @@
+[
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "demjson3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "demjson3",
+        "description": "demjson3",
+        "detail": "demjson3",
+        "documentation": {}
+    },
+    {
+        "label": "JSONDecodeError",
+        "importPath": "demjson3",
+        "description": "demjson3",
+        "isExtraImport": true,
+        "detail": "demjson3",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "parse_qs",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urljoin",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "parse_qs",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "unquote",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "parse_qsl",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "unquote",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlencode",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urljoin",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlunparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "RequestException",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLSession",
+        "importPath": "requests_html",
+        "description": "requests_html",
+        "isExtraImport": true,
+        "detail": "requests_html",
+        "documentation": {}
+    },
+    {
+        "label": "Element",
+        "importPath": "requests_html",
+        "description": "requests_html",
+        "isExtraImport": true,
+        "detail": "requests_html",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_URL",
+        "importPath": "requests_html",
+        "description": "requests_html",
+        "isExtraImport": true,
+        "detail": "requests_html",
+        "documentation": {}
+    },
+    {
+        "label": "Element",
+        "importPath": "requests_html",
+        "description": "requests_html",
+        "isExtraImport": true,
+        "detail": "requests_html",
+        "documentation": {}
+    },
+    {
+        "label": "PyQuery",
+        "importPath": "requests_html",
+        "description": "requests_html",
+        "isExtraImport": true,
+        "detail": "requests_html",
+        "documentation": {}
+    },
+    {
+        "label": "textwrap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "textwrap",
+        "description": "textwrap",
+        "detail": "textwrap",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPError",
+        "importPath": "requests.exceptions",
+        "description": "requests.exceptions",
+        "isExtraImport": true,
+        "detail": "requests.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "dateparser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dateparser",
+        "description": "dateparser",
+        "detail": "dateparser",
+        "documentation": {}
+    },
+    {
+        "label": "lxml.html",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "lxml.html",
+        "description": "lxml.html",
+        "detail": "lxml.html",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "RequestsCookieJar",
+        "importPath": "requests.cookies",
+        "description": "requests.cookies",
+        "isExtraImport": true,
+        "detail": "requests.cookies",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "FB_BASE_URL",
+        "kind": 5,
+        "importPath": "facebook_scraper.constants",
+        "description": "facebook_scraper.constants",
+        "peekOfCode": "FB_BASE_URL = 'https://facebook.com/'\nFB_W3_BASE_URL = 'https://www.facebook.com/'\nFB_MOBILE_BASE_URL = 'https://m.facebook.com/'\nFB_MBASIC_BASE_URL = 'https://mbasic.facebook.com/'\nDEFAULT_REQUESTS_TIMEOUT = 120\nDEFAULT_PAGE_LIMIT = 10\nDEFAULT_COOKIES_FILE_PATH = '.fb-cookies.pckl'",
+        "detail": "facebook_scraper.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FB_W3_BASE_URL",
+        "kind": 5,
+        "importPath": "facebook_scraper.constants",
+        "description": "facebook_scraper.constants",
+        "peekOfCode": "FB_W3_BASE_URL = 'https://www.facebook.com/'\nFB_MOBILE_BASE_URL = 'https://m.facebook.com/'\nFB_MBASIC_BASE_URL = 'https://mbasic.facebook.com/'\nDEFAULT_REQUESTS_TIMEOUT = 120\nDEFAULT_PAGE_LIMIT = 10\nDEFAULT_COOKIES_FILE_PATH = '.fb-cookies.pckl'",
+        "detail": "facebook_scraper.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FB_MOBILE_BASE_URL",
+        "kind": 5,
+        "importPath": "facebook_scraper.constants",
+        "description": "facebook_scraper.constants",
+        "peekOfCode": "FB_MOBILE_BASE_URL = 'https://m.facebook.com/'\nFB_MBASIC_BASE_URL = 'https://mbasic.facebook.com/'\nDEFAULT_REQUESTS_TIMEOUT = 120\nDEFAULT_PAGE_LIMIT = 10\nDEFAULT_COOKIES_FILE_PATH = '.fb-cookies.pckl'",
+        "detail": "facebook_scraper.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FB_MBASIC_BASE_URL",
+        "kind": 5,
+        "importPath": "facebook_scraper.constants",
+        "description": "facebook_scraper.constants",
+        "peekOfCode": "FB_MBASIC_BASE_URL = 'https://mbasic.facebook.com/'\nDEFAULT_REQUESTS_TIMEOUT = 120\nDEFAULT_PAGE_LIMIT = 10\nDEFAULT_COOKIES_FILE_PATH = '.fb-cookies.pckl'",
+        "detail": "facebook_scraper.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_REQUESTS_TIMEOUT",
+        "kind": 5,
+        "importPath": "facebook_scraper.constants",
+        "description": "facebook_scraper.constants",
+        "peekOfCode": "DEFAULT_REQUESTS_TIMEOUT = 120\nDEFAULT_PAGE_LIMIT = 10\nDEFAULT_COOKIES_FILE_PATH = '.fb-cookies.pckl'",
+        "detail": "facebook_scraper.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PAGE_LIMIT",
+        "kind": 5,
+        "importPath": "facebook_scraper.constants",
+        "description": "facebook_scraper.constants",
+        "peekOfCode": "DEFAULT_PAGE_LIMIT = 10\nDEFAULT_COOKIES_FILE_PATH = '.fb-cookies.pckl'",
+        "detail": "facebook_scraper.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_COOKIES_FILE_PATH",
+        "kind": 5,
+        "importPath": "facebook_scraper.constants",
+        "description": "facebook_scraper.constants",
+        "peekOfCode": "DEFAULT_COOKIES_FILE_PATH = '.fb-cookies.pckl'",
+        "detail": "facebook_scraper.constants",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "kind": 6,
+        "importPath": "facebook_scraper.exceptions",
+        "description": "facebook_scraper.exceptions",
+        "peekOfCode": "class NotFound(Exception):\n    '''Post, page or profile not found / doesn't exist / deleted'''\n    pass\nclass TemporarilyBanned(Exception):\n    '''User account rate limited'''\n    pass\nclass AccountDisabled(Exception):\n    '''User account disabled, with option to appeal'''\n    pass\nclass InvalidCookies(Exception):",
+        "detail": "facebook_scraper.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TemporarilyBanned",
+        "kind": 6,
+        "importPath": "facebook_scraper.exceptions",
+        "description": "facebook_scraper.exceptions",
+        "peekOfCode": "class TemporarilyBanned(Exception):\n    '''User account rate limited'''\n    pass\nclass AccountDisabled(Exception):\n    '''User account disabled, with option to appeal'''\n    pass\nclass InvalidCookies(Exception):\n    '''Cookies file passed but missing cookies'''\n    pass\nclass LoginRequired(Exception):",
+        "detail": "facebook_scraper.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AccountDisabled",
+        "kind": 6,
+        "importPath": "facebook_scraper.exceptions",
+        "description": "facebook_scraper.exceptions",
+        "peekOfCode": "class AccountDisabled(Exception):\n    '''User account disabled, with option to appeal'''\n    pass\nclass InvalidCookies(Exception):\n    '''Cookies file passed but missing cookies'''\n    pass\nclass LoginRequired(Exception):\n    '''Facebook requires a login to see this'''\n    pass\nclass LoginError(Exception):",
+        "detail": "facebook_scraper.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidCookies",
+        "kind": 6,
+        "importPath": "facebook_scraper.exceptions",
+        "description": "facebook_scraper.exceptions",
+        "peekOfCode": "class InvalidCookies(Exception):\n    '''Cookies file passed but missing cookies'''\n    pass\nclass LoginRequired(Exception):\n    '''Facebook requires a login to see this'''\n    pass\nclass LoginError(Exception):\n    '''Failed to log in'''\n    pass\nclass UnexpectedResponse(Exception):",
+        "detail": "facebook_scraper.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequired",
+        "kind": 6,
+        "importPath": "facebook_scraper.exceptions",
+        "description": "facebook_scraper.exceptions",
+        "peekOfCode": "class LoginRequired(Exception):\n    '''Facebook requires a login to see this'''\n    pass\nclass LoginError(Exception):\n    '''Failed to log in'''\n    pass\nclass UnexpectedResponse(Exception):\n    '''Facebook served something weird'''\n    pass",
+        "detail": "facebook_scraper.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "LoginError",
+        "kind": 6,
+        "importPath": "facebook_scraper.exceptions",
+        "description": "facebook_scraper.exceptions",
+        "peekOfCode": "class LoginError(Exception):\n    '''Failed to log in'''\n    pass\nclass UnexpectedResponse(Exception):\n    '''Facebook served something weird'''\n    pass",
+        "detail": "facebook_scraper.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnexpectedResponse",
+        "kind": 6,
+        "importPath": "facebook_scraper.exceptions",
+        "description": "facebook_scraper.exceptions",
+        "peekOfCode": "class UnexpectedResponse(Exception):\n    '''Facebook served something weird'''\n    pass",
+        "detail": "facebook_scraper.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PostExtractor",
+        "kind": 6,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "class PostExtractor:\n    \"\"\"Class for Extracting fields from a FacebookPost\"\"\"\n    likes_regex = re.compile(\n        r'([\\d,.KM]+)\\s+(Like|left reaction|others reacted|others left reactions)', re.IGNORECASE\n    )\n    comments_regex = re.compile(r'([\\d,.KM]+)\\s+comment', re.IGNORECASE)\n    shares_regex = re.compile(r'([\\d,.KM]+)\\s+Share', re.IGNORECASE)\n    link_regex = re.compile(r\"href=\\\"https:\\/\\/lm\\.facebook\\.com\\/l\\.php\\?u=(.+?)\\&amp;h=\")\n    photo_link = re.compile(r'href=\\\"(/[^\\\"]+/photos/[^\\\"]+?)\\\"')\n    photo_link_2 = re.compile(r'href=\\\"(/photo.php[^\\\"]+?)\\\"')",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "GroupPostExtractor",
+        "kind": 6,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "class GroupPostExtractor(PostExtractor):\n    \"\"\"Class for extracting posts from Facebook Groups rather than Pages\"\"\"\n    post_url_regex = re.compile(r'https://m.facebook.com/groups/[^/]+/permalink/')\n    post_story_regex = re.compile(r'href=\"(https://m.facebook.com/groups/[^/]+/permalink/\\d+/)')\nclass PhotoPostExtractor(PostExtractor):\n    def extract_text(self) -> PartialPost:\n        text = self.element.find(\"div.msg\", first=True).text\n        return {\"text\": text, \"post_text\": text}\n    def extract_photo_link(self) -> PartialPost:\n        image = self.extract_photo_link_HQ(self.full_post_html.html)",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoPostExtractor",
+        "kind": 6,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "class PhotoPostExtractor(PostExtractor):\n    def extract_text(self) -> PartialPost:\n        text = self.element.find(\"div.msg\", first=True).text\n        return {\"text\": text, \"post_text\": text}\n    def extract_photo_link(self) -> PartialPost:\n        image = self.extract_photo_link_HQ(self.full_post_html.html)\n        return {\n            \"image\": image,\n            \"images\": [image],\n            \"images_description\": self.extract_image_lq()[\"images_lowquality_description\"],",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "HashtagPostExtractor",
+        "kind": 6,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "class HashtagPostExtractor(PostExtractor):\n    def __init__(self, element, options, request_fn, full_post_html=None, **kwargs):\n        post_id = self.extract_hashtag_post_id(element)\n        if post_id:\n            response = request_fn(post_id)\n            if response:\n                element = response.html.find('[data-ft*=\"top_level_post_id\"]')[0]\n                full_post_html = response.html\n        super().__init__(element, options, request_fn, full_post_html)\n    def extract_hashtag_post_id(self, element):",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "StoryExtractor",
+        "kind": 6,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "class StoryExtractor(PostExtractor):\n    def extract_username(self) -> PartialPost:\n        elem = self.element.find('#m-stories-card-header', first=True)\n        if elem:\n            url = elem.find(\"a\", first=True).attrs[\"href\"]\n            if url:\n                url = utils.urljoin(FB_BASE_URL, url)\n            return {'username': elem.find(\"div.overflowText\", first=True).text, 'user_url': url}\n    def extract_time(self) -> PartialPost:\n        date_element = self.element.find(\"abbr[data-store*='time']\", first=True)",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "extract_post",
+        "kind": 2,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "def extract_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None, **kwargs\n) -> Post:\n    return PostExtractor(raw_post, options, request_fn, full_post_html, extra_info, **kwargs).extract_post()\ndef extract_group_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs\n) -> Post:\n    return GroupPostExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()\ndef extract_story_post(",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "extract_group_post",
+        "kind": 2,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "def extract_group_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs\n) -> Post:\n    return GroupPostExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()\ndef extract_story_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs\n) -> Post:\n    return StoryExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "extract_story_post",
+        "kind": 2,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "def extract_story_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs\n) -> Post:\n    return StoryExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()\ndef extract_photo_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html, extra_info=None, **kwargs\n) -> Post:\n    return PhotoPostExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()\ndef extract_hashtag_post(",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "extract_photo_post",
+        "kind": 2,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "def extract_photo_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html, extra_info=None, **kwargs\n) -> Post:\n    return PhotoPostExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()\ndef extract_hashtag_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs\n) -> Post:\n    return HashtagPostExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()\nclass PostExtractor:",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "extract_hashtag_post",
+        "kind": 2,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "def extract_hashtag_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs\n) -> Post:\n    return HashtagPostExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()\nclass PostExtractor:\n    \"\"\"Class for Extracting fields from a FacebookPost\"\"\"\n    likes_regex = re.compile(\n        r'([\\d,.KM]+)\\s+(Like|left reaction|others reacted|others left reactions)', re.IGNORECASE\n    )",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Typing\nPartialPost = Optional[Dict[str, Any]]\ndef extract_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None, **kwargs\n) -> Post:\n    return PostExtractor(raw_post, options, request_fn, full_post_html, extra_info, **kwargs).extract_post()\ndef extract_group_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "PartialPost",
+        "kind": 5,
+        "importPath": "facebook_scraper.extractors",
+        "description": "facebook_scraper.extractors",
+        "peekOfCode": "PartialPost = Optional[Dict[str, Any]]\ndef extract_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None, **kwargs\n) -> Post:\n    return PostExtractor(raw_post, options, request_fn, full_post_html, extra_info, **kwargs).extract_post()\ndef extract_group_post(\n        raw_post: RawPost, options: Options, request_fn: RequestFunction, full_post_html=None, extra_info=None,\n        **kwargs\n) -> Post:\n    return GroupPostExtractor(raw_post, options, request_fn, full_post_html, **kwargs).extract_post()",
+        "detail": "facebook_scraper.extractors",
+        "documentation": {}
+    },
+    {
+        "label": "FacebookScraper",
+        "kind": 6,
+        "importPath": "facebook_scraper.facebook_scraper",
+        "description": "facebook_scraper.facebook_scraper",
+        "peekOfCode": "class FacebookScraper:\n    \"\"\"Class for creating FacebookScraper Iterators\"\"\"\n    base_url = FB_MOBILE_BASE_URL\n    default_headers = {\n        \"Accept\": \"*/*\",\n        \"Connection\": \"keep-alive\",\n        \"Accept-Encoding\": \"gzip,deflate\",\n        \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15\",\n    }\n    have_checked_locale = False",
+        "detail": "facebook_scraper.facebook_scraper",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "facebook_scraper.facebook_scraper",
+        "description": "facebook_scraper.facebook_scraper",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass FacebookScraper:\n    \"\"\"Class for creating FacebookScraper Iterators\"\"\"\n    base_url = FB_MOBILE_BASE_URL\n    default_headers = {\n        \"Accept\": \"*/*\",\n        \"Connection\": \"keep-alive\",\n        \"Accept-Encoding\": \"gzip,deflate\",\n        \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15\",\n    }",
+        "detail": "facebook_scraper.facebook_scraper",
+        "documentation": {}
+    },
+    {
+        "label": "URL",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "URL = str\nOptions = Dict[str, Any]\nPost = Dict[str, Any]\nProfile = Dict[str, Any]\nRequestFunction = Callable[[URL], Response]\nRawPage = Element\nRawPost = Element\nPage = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "Options = Dict[str, Any]\nPost = Dict[str, Any]\nProfile = Dict[str, Any]\nRequestFunction = Callable[[URL], Response]\nRawPage = Element\nRawPost = Element\nPage = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "Post = Dict[str, Any]\nProfile = Dict[str, Any]\nRequestFunction = Callable[[URL], Response]\nRawPage = Element\nRawPost = Element\nPage = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "Profile = Dict[str, Any]\nRequestFunction = Callable[[URL], Response]\nRawPage = Element\nRawPost = Element\nPage = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "RequestFunction",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "RequestFunction = Callable[[URL], Response]\nRawPage = Element\nRawPost = Element\nPage = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "RawPage",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "RawPage = Element\nRawPost = Element\nPage = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "RawPost",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "RawPost = Element\nPage = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "Page",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "Page = Iterable[RawPost]\nCredentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "Credentials",
+        "kind": 5,
+        "importPath": "facebook_scraper.fb_types",
+        "description": "facebook_scraper.fb_types",
+        "peekOfCode": "Credentials = Tuple[str, str]",
+        "detail": "facebook_scraper.fb_types",
+        "documentation": {}
+    },
+    {
+        "label": "PageClass",
+        "kind": 6,
+        "importPath": "facebook_scraper.internal_classes",
+        "description": "facebook_scraper.internal_classes",
+        "peekOfCode": "class PageClass:\n    def __init__(self, raw_posts, extra_info=None):\n        self.raw_posts = raw_posts\n        self.extra_info = extra_info\n        super().__init__()\n    def __iter__(self):\n        return iter(self.raw_posts)",
+        "detail": "facebook_scraper.internal_classes",
+        "documentation": {}
+    },
+    {
+        "label": "PageParser",
+        "kind": 6,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "class PageParser:\n    \"\"\"Class for Parsing a single page on a Page\"\"\"\n    json_prefix = 'for (;;);'\n    cursor_regex = re.compile(r'href[:=]\"(/page_content[^\"]+)\"')  # First request\n    cursor_regex_2 = re.compile(r'href\"[:=]\"(\\\\/page_content[^\"]+)\"')  # Other requests\n    cursor_regex_3 = re.compile(\n        r'href:\"(/profile/timeline/stream/\\?cursor[^\"]+)\"'\n    )  # scroll/cursor based, first request\n    cursor_regex_4 = re.compile(\n        r'href\\\\\":\\\\\"\\\\+(/profile\\\\+/timeline\\\\+/stream[^\"]+)\\\"'",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "GroupPageParser",
+        "kind": 6,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "class GroupPageParser(PageParser):\n    \"\"\"Class for parsing a single page of a group\"\"\"\n    cursor_regex_3 = re.compile(r'href[=:]\"(\\/groups\\/[^\"]+bac=[^\"]+)\"')  # for Group requests\n    cursor_regex_3_basic_new = re.compile(\n        r'href[=:]\"(\\/groups\\/[^\"]+bacr=[^\"]+)\"'\n    )  # for mbasic Group requests 2023\n    def get_next_page(self) -> Optional[URL]:\n        next_page = super().get_next_page()\n        if next_page:\n            return next_page",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "PhotosPageParser",
+        "kind": 6,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "class PhotosPageParser(PageParser):\n    cursor_regex = re.compile(r'href:\"(/photos/pandora/[^\"]+)\"')\n    cursor_regex_2 = re.compile(r'href\":\"(\\\\/photos\\\\/pandora\\\\/[^\"]+)\"')\n    def get_page(self) -> Page:\n        return super()._get_page('div._5v64', \"div._5v64\")\n    def get_next_page(self) -> Optional[URL]:\n        if self.cursor_blob is not None:\n            match = self.cursor_regex.search(self.cursor_blob)\n            if match:\n                return match.groups()[0]",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "SearchPageParser",
+        "kind": 6,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "class SearchPageParser(PageParser):\n    cursor_regex = re.compile(r'href[:=]\"[^\"]+(/search/[^\"]+)\"')\n    cursor_regex_2 = re.compile(r'href\":\"[^\"]+(/search/[^\"]+)\"')\n    def get_next_page(self) -> Optional[URL]:\n        if self.cursor_blob is not None:\n            match = self.cursor_regex.search(self.cursor_blob)\n            if match:\n                return match.groups()[0]\n            match = self.cursor_regex_2.search(self.cursor_blob)\n            if match:",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "HashtagPageParser",
+        "kind": 6,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "class HashtagPageParser(PageParser):\n    cursor_regex = re.compile(r'(\\/hashtag\\/[a-z]+\\/\\?cursor=[^\"]+).*$')\n    def get_page(self) -> Page:\n        return super()._get_page('article', 'article')\n    def get_next_page(self) -> Optional[URL]:\n        assert self.cursor_blob is not None\n        match = self.cursor_regex.search(self.cursor_blob)\n        if match:\n            return utils.unquote(match.groups()[0]).replace(\"&amp;\", \"&\")\n        return None",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "iter_hashtag_pages",
+        "kind": 2,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "def iter_hashtag_pages(hashtag: str, request_fn: RequestFunction, **kwargs) -> Iterator[Page]:\n    start_url = kwargs.pop(\"start_url\", None)\n    if not start_url:\n        start_url = utils.urljoin(FB_MBASIC_BASE_URL, f'/hashtag/{hashtag}/')\n        try:\n            request_fn(start_url)\n        except Exception as ex:\n            logger.error(ex)\n    return generic_iter_pages(start_url, HashtagPageParser, request_fn, **kwargs)\ndef iter_pages(account: str, request_fn: RequestFunction, **kwargs) -> Iterator[Page]:",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "iter_pages",
+        "kind": 2,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "def iter_pages(account: str, request_fn: RequestFunction, **kwargs) -> Iterator[Page]:\n    start_url = kwargs.pop(\"start_url\", None)\n    if not start_url:\n        start_url = utils.urljoin(\n            FB_MOBILE_BASE_URL,\n            f'/{account}',\n        )\n    return generic_iter_pages(start_url, PageParser, request_fn, **kwargs)\ndef iter_group_pages(\n    group: Union[str, int], request_fn: RequestFunction, **kwargs",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "iter_group_pages",
+        "kind": 2,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "def iter_group_pages(\n    group: Union[str, int], request_fn: RequestFunction, **kwargs\n) -> Iterator[Page]:\n    start_url = kwargs.pop(\"start_url\", None)\n    if not start_url:\n        start_url = utils.urljoin(FB_MOBILE_BASE_URL, f'groups/{group}/')\n    return generic_iter_pages(start_url, GroupPageParser, request_fn, **kwargs)\ndef iter_search_pages(word: str, request_fn: RequestFunction, **kwargs) -> Iterator[Page]:\n    start_url = kwargs.pop(\"start_url\", None)\n    if not start_url:",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "iter_search_pages",
+        "kind": 2,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "def iter_search_pages(word: str, request_fn: RequestFunction, **kwargs) -> Iterator[Page]:\n    start_url = kwargs.pop(\"start_url\", None)\n    if not start_url:\n        start_url = utils.urljoin(\n            FB_MOBILE_BASE_URL,\n            f'/search/posts?q={word}'\n            f'&filters=eyJyZWNlbnRfcG9zdHM6MCI6IntcIm5hbWVcIjpcInJlY2VudF9wb3N0c1wiLFwiYXJnc1wiOlwiXCJ9In0%3D',\n        )\n        try:\n            request_fn(start_url)",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "iter_photos",
+        "kind": 2,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "def iter_photos(account: str, request_fn: RequestFunction, **kwargs) -> Iterator[Page]:\n    start_url = utils.urljoin(FB_MOBILE_BASE_URL, f'/{account}/photos/')\n    return generic_iter_pages(start_url, PhotosPageParser, request_fn, **kwargs)\ndef generic_iter_pages(\n    start_url, page_parser_cls, request_fn: RequestFunction, **kwargs\n) -> Iterator[PageClass]:\n    next_url = start_url\n    base_url = kwargs.get('base_url', FB_MOBILE_BASE_URL)\n    request_url_callback = kwargs.get('request_url_callback')\n    while next_url:",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "generic_iter_pages",
+        "kind": 2,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "def generic_iter_pages(\n    start_url, page_parser_cls, request_fn: RequestFunction, **kwargs\n) -> Iterator[PageClass]:\n    next_url = start_url\n    base_url = kwargs.get('base_url', FB_MOBILE_BASE_URL)\n    request_url_callback = kwargs.get('request_url_callback')\n    while next_url:\n        # Execute callback of starting a new URL request\n        if request_url_callback:\n            # The callback can return an exit code to stop the iteration",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "facebook_scraper.page_iterators",
+        "description": "facebook_scraper.page_iterators",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef iter_hashtag_pages(hashtag: str, request_fn: RequestFunction, **kwargs) -> Iterator[Page]:\n    start_url = kwargs.pop(\"start_url\", None)\n    if not start_url:\n        start_url = utils.urljoin(FB_MBASIC_BASE_URL, f'/hashtag/{hashtag}/')\n        try:\n            request_fn(start_url)\n        except Exception as ex:\n            logger.error(ex)\n    return generic_iter_pages(start_url, HashtagPageParser, request_fn, **kwargs)",
+        "detail": "facebook_scraper.page_iterators",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_search",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def find_and_search(node, selector, pattern, cast=str):\n    container = node.find(selector, first=True)\n    match = container and pattern.search(container.html)\n    return match and cast(match.groups()[0])\ndef parse_int(value: str) -> int:\n    return int(''.join(filter(lambda c: c.isdigit(), value)))\ndef convert_numeric_abbr(s):\n    mapping = {'k': 1000, 'm': 1e6}\n    s = s.replace(\",\", \"\")\n    if s[-1].isalpha():",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_int",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def parse_int(value: str) -> int:\n    return int(''.join(filter(lambda c: c.isdigit(), value)))\ndef convert_numeric_abbr(s):\n    mapping = {'k': 1000, 'm': 1e6}\n    s = s.replace(\",\", \"\")\n    if s[-1].isalpha():\n        return int(float(s[:-1]) * mapping[s[-1].lower()])\n    return int(s)\ndef parse_duration(s) -> int:\n    match = re.search(r'T(?P<hours>\\d+H)?(?P<minutes>\\d+M)?(?P<seconds>\\d+S)', s)",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_numeric_abbr",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def convert_numeric_abbr(s):\n    mapping = {'k': 1000, 'm': 1e6}\n    s = s.replace(\",\", \"\")\n    if s[-1].isalpha():\n        return int(float(s[:-1]) * mapping[s[-1].lower()])\n    return int(s)\ndef parse_duration(s) -> int:\n    match = re.search(r'T(?P<hours>\\d+H)?(?P<minutes>\\d+M)?(?P<seconds>\\d+S)', s)\n    if match:\n        result = 0",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_duration",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def parse_duration(s) -> int:\n    match = re.search(r'T(?P<hours>\\d+H)?(?P<minutes>\\d+M)?(?P<seconds>\\d+S)', s)\n    if match:\n        result = 0\n        for k, v in match.groupdict().items():\n            if v:\n                if k == 'hours':\n                    result += int(v.strip(\"H\")) * 60 * 60\n                elif k == \"minutes\":\n                    result += int(v.strip(\"M\")) * 60",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "decode_css_url",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def decode_css_url(url: str) -> str:\n    url = re.sub(r'\\\\(..) ', r'\\\\x\\g<1>', url)\n    url, _ = codecs.unicode_escape_decode(url)\n    url, _ = codecs.unicode_escape_decode(url)\n    return url\ndef get_background_image_url(style):\n    match = re.search(r\"url\\('(.+)'\\)\", style)\n    return decode_css_url(match.groups()[0])\ndef filter_query_params(url, whitelist=None, blacklist=None) -> str:\n    def is_valid_param(param):",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_background_image_url",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def get_background_image_url(style):\n    match = re.search(r\"url\\('(.+)'\\)\", style)\n    return decode_css_url(match.groups()[0])\ndef filter_query_params(url, whitelist=None, blacklist=None) -> str:\n    def is_valid_param(param):\n        if whitelist is not None:\n            return param in whitelist\n        if blacklist is not None:\n            return param not in blacklist\n        return True  # Do nothing",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "filter_query_params",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def filter_query_params(url, whitelist=None, blacklist=None) -> str:\n    def is_valid_param(param):\n        if whitelist is not None:\n            return param in whitelist\n        if blacklist is not None:\n            return param not in blacklist\n        return True  # Do nothing\n    parsed_url = urlparse(url)\n    query_params = parse_qsl(parsed_url.query)\n    query_string = urlencode([(k, v) for k, v in query_params if is_valid_param(k)])",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "combine_url_params",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def combine_url_params(url1, url2) -> str:\n    parsed_url = urlparse(url1)\n    parsed_url2 = urlparse(url2)\n    query_params = parse_qsl(parsed_url.query) + parse_qsl(parsed_url2.query)\n    query_string = urlencode([(k, v) for k, v in query_params])\n    return urlunparse(parsed_url._replace(query=query_string))\ndef remove_control_characters(html):\n    # type: (t.Text) -> t.Text\n    \"\"\"\n    Strip invalid XML characters that `lxml` cannot parse.",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "remove_control_characters",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def remove_control_characters(html):\n    # type: (t.Text) -> t.Text\n    \"\"\"\n    Strip invalid XML characters that `lxml` cannot parse.\n    \"\"\"\n    # See: https://github.com/html5lib/html5lib-python/issues/96\n    #\n    # The XML 1.0 spec defines the valid character range as:\n    # Char ::= #x9 | #xA | #xD | [#x20-#xD7FF] | [#xE000-#xFFFD] | [#x10000-#x10FFFF]\n    #",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "make_html_element",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def make_html_element(html: str, url=DEFAULT_URL) -> Element:\n    html = remove_control_characters(html)\n    pq_element = PyQuery(html)[0]  # PyQuery is a list, so we take the first element\n    return Element(element=pq_element, url=url)\nmonth = (\n    r\"Jan(?:uary)?|\"\n    r\"Feb(?:ruary)?|\"\n    r\"Mar(?:ch)?|\"\n    r\"Apr(?:il)?|\"\n    r\"May|\"",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_datetime",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.\n    Uses dateparser to parse the date (not thread safe).\n    Args:\n        text: The text where the date should be.\n        search: If false, skip the regex search and try to parse the complete string.\n    Returns:\n        The datetime object, or None if it couldn't find a date.\n    \"\"\"",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "html_element_to_string",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def html_element_to_string(element: Element, pretty=False) -> str:\n    html = lxml.html.tostring(element.element, encoding='unicode')\n    if pretty:\n        html = BeautifulSoup(html, features='html.parser').prettify()\n    return html\ndef parse_cookie_file(filename: str) -> RequestsCookieJar:\n    jar = RequestsCookieJar()\n    with open(filename, mode='rt') as file:\n        data = file.read()\n    try:",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_cookie_file",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def parse_cookie_file(filename: str) -> RequestsCookieJar:\n    jar = RequestsCookieJar()\n    with open(filename, mode='rt') as file:\n        data = file.read()\n    try:\n        data = json.loads(data)\n        if type(data) is list:\n            for c in data:\n                expires = c.get(\"expirationDate\") or c.get(\"Expires raw\")\n                if expires:",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "safe_consume",
+        "kind": 2,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "def safe_consume(generator, sleep=0):\n    result = []\n    try:\n        for item in generator:\n            result.append(item)\n            time.sleep(sleep)\n    except Exception as e:\n        traceback.print_exc()\n        logger.error(f\"Exception when consuming {generator}: {type(e)}: {str(e)}\")\n    return result",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef find_and_search(node, selector, pattern, cast=str):\n    container = node.find(selector, first=True)\n    match = container and pattern.search(container.html)\n    return match and cast(match.groups()[0])\ndef parse_int(value: str) -> int:\n    return int(''.join(filter(lambda c: c.isdigit(), value)))\ndef convert_numeric_abbr(s):\n    mapping = {'k': 1000, 'm': 1e6}\n    s = s.replace(\",\", \"\")",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "month",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "month = (\n    r\"Jan(?:uary)?|\"\n    r\"Feb(?:ruary)?|\"\n    r\"Mar(?:ch)?|\"\n    r\"Apr(?:il)?|\"\n    r\"May|\"\n    r\"Jun(?:e)?|\"\n    r\"Jul(?:y)?|\"\n    r\"Aug(?:ust)?|\"\n    r\"Sep(?:tember)?|\"",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "day_of_week",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "day_of_week = r\"Mon|\" r\"Tue|\" r\"Wed|\" r\"Thu|\" r\"Fri|\" r\"Sat|\" r\"Sun\"\nday_of_month = r\"\\d{1,2}\"\nspecific_date_md = f\"(?:{month}) {day_of_month}\" + r\"(?:,? \\d{4})?\"\nspecific_date_dm = f\"{day_of_month} (?:{month})\" + r\"(?:,? \\d{4})?\"\ndate = f\"{specific_date_md}|{specific_date_dm}|Today|Yesterday\"\nhour = r\"\\d{1,2}\"\nminute = r\"\\d{2}\"\nperiod = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "day_of_month",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "day_of_month = r\"\\d{1,2}\"\nspecific_date_md = f\"(?:{month}) {day_of_month}\" + r\"(?:,? \\d{4})?\"\nspecific_date_dm = f\"{day_of_month} (?:{month})\" + r\"(?:,? \\d{4})?\"\ndate = f\"{specific_date_md}|{specific_date_dm}|Today|Yesterday\"\nhour = r\"\\d{1,2}\"\nminute = r\"\\d{2}\"\nperiod = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "specific_date_md",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "specific_date_md = f\"(?:{month}) {day_of_month}\" + r\"(?:,? \\d{4})?\"\nspecific_date_dm = f\"{day_of_month} (?:{month})\" + r\"(?:,? \\d{4})?\"\ndate = f\"{specific_date_md}|{specific_date_dm}|Today|Yesterday\"\nhour = r\"\\d{1,2}\"\nminute = r\"\\d{2}\"\nperiod = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "specific_date_dm",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "specific_date_dm = f\"{day_of_month} (?:{month})\" + r\"(?:,? \\d{4})?\"\ndate = f\"{specific_date_md}|{specific_date_dm}|Today|Yesterday\"\nhour = r\"\\d{1,2}\"\nminute = r\"\\d{2}\"\nperiod = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "date = f\"{specific_date_md}|{specific_date_dm}|Today|Yesterday\"\nhour = r\"\\d{1,2}\"\nminute = r\"\\d{2}\"\nperiod = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "hour",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "hour = r\"\\d{1,2}\"\nminute = r\"\\d{2}\"\nperiod = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "minute",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "minute = r\"\\d{2}\"\nperiod = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "period",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "period = r\"AM|PM|\"\nexact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "exact_time",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "exact_time = f\"(?:{date}) at {hour}:{minute} ?(?:{period})\"\nrelative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "relative_time_years",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "relative_time_years = r'\\b\\d{1,2} yr'\nrelative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "relative_time_months",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "relative_time_months = r'\\b\\d{1,2} (?:mth|mo)'\nrelative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "relative_time_weeks",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "relative_time_weeks = r'\\b\\d{1,2} wk'\nrelative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.\n    Uses dateparser to parse the date (not thread safe).",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "relative_time_hours",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "relative_time_hours = r\"\\b\\d{1,2} ?h(?:rs?)?\"\nrelative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.\n    Uses dateparser to parse the date (not thread safe).\n    Args:",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "relative_time_mins",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "relative_time_mins = r\"\\b\\d{1,2} ?mins?\"\nrelative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.\n    Uses dateparser to parse the date (not thread safe).\n    Args:\n        text: The text where the date should be.",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "relative_time",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "relative_time = f\"{relative_time_years}|{relative_time_months}|{relative_time_weeks}|{relative_time_hours}|{relative_time_mins}\"\ndatetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.\n    Uses dateparser to parse the date (not thread safe).\n    Args:\n        text: The text where the date should be.\n        search: If false, skip the regex search and try to parse the complete string.",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "datetime_regex",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "datetime_regex = re.compile(fr\"({exact_time}|{relative_time})\", re.IGNORECASE)\nday_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.\n    Uses dateparser to parse the date (not thread safe).\n    Args:\n        text: The text where the date should be.\n        search: If false, skip the regex search and try to parse the complete string.\n    Returns:",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "day_of_week_regex",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "day_of_week_regex = re.compile(fr\"({day_of_week})\", re.IGNORECASE)\ndef parse_datetime(text: str, search=True) -> Optional[datetime]:\n    \"\"\"Looks for a string that looks like a date and parses it into a datetime object.\n    Uses a regex to look for the date in the string.\n    Uses dateparser to parse the date (not thread safe).\n    Args:\n        text: The text where the date should be.\n        search: If false, skip the regex search and try to parse the complete string.\n    Returns:\n        The datetime object, or None if it couldn't find a date.",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "reaction_lookup",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "reaction_lookup = {\n    '1': {\n        'color': '#2078f4',\n        'display_name': 'Like',\n        'is_deprecated': False,\n        'is_visible': True,\n        'name': 'like',\n        'type': 1,\n    },\n    '10': {",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "emoji_class_lookup",
+        "kind": 5,
+        "importPath": "facebook_scraper.utils",
+        "description": "facebook_scraper.utils",
+        "peekOfCode": "emoji_class_lookup = {\n    'sx_0ae260': 'care',\n    'sx_0e815d': 'haha',\n    'sx_199220': 'angry',\n    'sx_3a00ef': 'like',\n    'sx_3ecf2a': 'sad',\n    'sx_78dbdd': 'angry',\n    'sx_a35dca': 'love',\n    'sx_c3ed6c': 'sad',\n    'sx_ce3068': 'haha',",
+        "detail": "facebook_scraper.utils",
+        "documentation": {}
+    }
+]
